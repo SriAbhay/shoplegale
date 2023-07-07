@@ -1,1 +1,1 @@
-# shoplegale
+# shoplegal
